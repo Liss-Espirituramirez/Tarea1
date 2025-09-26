@@ -40,9 +40,9 @@ import java.util.Scanner;
         System.out.println("\n--- RESULTADOS ---");
         System.out.println("Suma: " + suma);
         System.out.println("Resta: " + resta);
-        System.out.println("Multiplicación: " + multiplicacion);
+        System.out.println("Multiplicacion: " + multiplicacion);
         if (num2 != 0) {
-            System.out.println("División: " + division);
+            System.out.println("Division: " + division);
         } else {
             System.out.println("División: No se puede dividir entre 0");
         }
